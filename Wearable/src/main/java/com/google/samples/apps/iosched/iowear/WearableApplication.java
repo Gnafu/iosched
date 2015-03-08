@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.iosched.iowear;
+package it.amichiamoci.apps.schedule.iosched.iowear;
 
 
-import com.google.samples.apps.iosched.R;
+import it.amichiamoci.apps.schedule.iosched.R;
 
 import android.app.Application;
 

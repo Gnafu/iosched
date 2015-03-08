@@ -16,30 +16,30 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- Shown in the schedule to indicate how many sessions are available on that particular time slot. -->
     <plurals name="schedule_block_subtitle">
-        <item quantity="one"><xliff:g id="number_of_sessions">%1$d</xliff:g> sessione disponibile</item>
-        <item quantity="other"><xliff:g id="number_of_sessions">%1$d</xliff:g> sessioni disponibili</item>
+        <item quantity="one"><xliff:g id="number_of_sessions">%1$d</xliff:g> evento disponibile</item>
+        <item quantity="other"><xliff:g id="number_of_sessions">%1$d</xliff:g> eventi disponibili</item>
     </plurals>
 
     <!-- Shows as a notification on the system bar to alert user that some of their sessions are about to begin. -->
     <plurals name="session_notification_text">
-        <item quantity="one">e 1 altra inizierà tra <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
-        <item quantity="other">e <xliff:g id="num_sessions">%2$d</xliff:g> altre inizieranno tra <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
+        <item quantity="one">e 1 altro inizierà tra <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
+        <item quantity="other">e <xliff:g id="num_sessions">%2$d</xliff:g> altri inizieranno tra <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
     </plurals>
 
     <!-- Shown as a notification on the system bar to alert user that some of their sessions are about to begin. -->
     <plurals name="session_notification_ticker">
-        <item quantity="one">1 sessione sta per iniziare.</item>
-        <item quantity="other">%d sessioni stanno per iniziare.</item>
+        <item quantity="one">1 evento sta per iniziare.</item>
+        <item quantity="other">%d eventi stanno per iniziare.</item>
     </plurals>
 
     <!-- Title for the notification that alerts the user that some of their sessions are about to begin. -->
     <plurals name="session_notification_title">
-        <item quantity="one">1 sessione inizerà tra <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
-        <item quantity="other"><xliff:g id="num_sessions">%2$d</xliff:g> sessioni inizieranno tra <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
+        <item quantity="one">1 evento inizerà tra <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
+        <item quantity="other"><xliff:g id="num_sessions">%2$d</xliff:g> eventi inizieranno tra <xliff:g id="remaining_time">%1$d</xliff:g> min.</item>
     </plurals>
 
     <!-- Shown in the 'About' window of the app. -->
-    <string name="about_body">&lt;b&gt; Google I/O 2014 &lt;/b&gt; &lt;br&gt; Versione %s&lt;br&gt;&lt;br&gt;&lt;a href=http://m.google.com/utos&gt;Condizioni generali d\'uso&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=http://www.google.com/policies/privacy/&gt;Politiche sulla privacy&lt;/a&gt;</string>
+    <string name="about_body">&lt;b&gt; Amichiamoci 2014 &lt;/b&gt; &lt;br&gt; Versione %s&lt;br&gt;&lt;br&gt;&lt;a href=http://m.google.com/utos&gt;Condizioni generali d\'uso&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=http://www.google.com/policies/privacy/&gt;Politiche sulla privacy&lt;/a&gt;</string>
 
     <!-- Shown as a link in the About screen of the app; user can click to see the EULA. -->
     <string name="about_eula">Accordo di Licenza con l\'Utente Finale</string>
@@ -58,11 +58,11 @@
 
     <!-- Accessibility description for a button that, when clicked, adds the currently
     displayed session to the user's schedule. -->
-    <string name="add_to_schedule_desc">Pulsante per aggiungere sessione al tuo programma</string>
+    <string name="add_to_schedule_desc">Pulsante per aggiungere evento al tuo programma</string>
 
     <!-- Shown in a drop-down list on the main screen, indicating that all conference sessions
     are being displayed. -->
-    <string name="all_sessions">Tutte le sessioni</string>
+    <string name="all_sessions">Tutti gli eventi</string>
 
     <!-- Shown in a drop-down list on the main screen, indicating that all conference themes
     are being displayed. Themes are major categories for sessions (the themes are Design,
@@ -83,7 +83,7 @@
     <string name="all_years">Tutti gli anni</string>
 
     <!-- Name of the application, shown in the application's title bar. -->
-    <string name="app_name">Google I/O 2014</string>
+    <string name="app_name">Amichiamoci 2014</string>
 
     <!-- Label on a button that is one possible answer to the question "Are you attending the
     conference in person in San Francisco or remotely via livestream?" -->
@@ -99,7 +99,7 @@
 
     <!-- Label on a button that allows the user to see what conference sessions are available
     at a particular time. -->
-    <string name="browse_sessions">Sfoglia le sessioni…</string>
+    <string name="browse_sessions">Sfoglia gli eventi…</string>
 
     <!-- Shown on Configure WiFi dialog, instructing user on what button to click. -->
     <string name="calltoaction_wifi_configure">&lt;br&gt;&lt;br&gt; Premi \'Aggiungi rete WiFi\' per procedere.</string>
@@ -369,11 +369,11 @@
 
     <!-- Text indicator that appears below the user's name, showing that they are
     attending the conference in person in San Francisco. -->
-    <string name="navdrawer_status_attending_in_person">Partecipo di persona all\'I/O</string>
+    <string name="navdrawer_status_attending_in_person">Partecipo di persona ad Amichiamoci</string>
 
     <!-- Text indicator that appears below the user's name, showing that they are
     attending the conference remotely via live streaming. -->
-    <string name="navdrawer_status_attending_remotely">Partecipo a distanza all\'I/O</string>
+    <string name="navdrawer_status_attending_remotely">Partecipo a distanza ad Amichiamoci</string>
 
     <!-- Header text for the Nearby EULA fragment -->
     <string name="nearby_eula_header">Esperimento PhysicalWeb</string>
@@ -522,15 +522,15 @@
 
     <!-- Text of a card shown in the session explorer that asks the user if he will be attending I/O
     in person or remotely. "Remotely" and "In person" are the buttons shown in the card -->
-    <string name="question_local_or_remote">Stai partecipando all\'I/O a distanza o di persona a San Francisco?</string>
+    <string name="question_local_or_remote">Stai partecipando ad Amichiamoci a distanza o di persona a Livorno?</string>
 
     <!-- Text of a card shown in the session explorer after I/O has started that asks the user if
     he wants to configure the WiFi. "Yes!" and "No, thanks" are the buttons shown in the card -->
-    <string name="question_setup_wifi_after_i_o_start">Google I/O è iniziato! Vuoi configurare il WiFi della conferenza adesso?</string>
+    <string name="question_setup_wifi_after_i_o_start">Amichiamoci è iniziato! Vuoi configurare il WiFi della conferenza adesso?</string>
 
     <!-- Text of a card shown in the session explorer before I/O has started that asks the user if
     he wants to configure the WiFi. "Yes!" and "No, thanks" are the buttons shown in the card -->
-    <string name="question_setup_wifi_before_i_o_start">Google I/O sta per cominciare! Vuoi configurare il WiFi della conferenza adesso?</string>
+    <string name="question_setup_wifi_before_i_o_start">Amichiamoci sta per cominciare! Vuoi configurare il WiFi della conferenza adesso?</string>
 
     <!-- Section title for videos related to a particular event session -->
     <string name="related_videos">Video correlati</string>
@@ -786,7 +786,7 @@
     <string name="welcome_text">Prima di iniziare, ecco alcune informazioni legali importanti in merito all\'utilizzo di questa applicazione. Ci vorrà solo un minuto!</string>
 
     <!-- Short text welcoming the user to the application -->
-    <string name="welcome_to_google_i_o_app">Benvenuti alla app del Google I/O!</string>
+    <string name="welcome_to_google_i_o_app">Benvenuti alla app di Amichiamoci!</string>
 
     <!-- Text for a button which will add a WiFi network -->
     <string name="wifi_dialog_button_configure">Aggiungi rete WiFi</string>

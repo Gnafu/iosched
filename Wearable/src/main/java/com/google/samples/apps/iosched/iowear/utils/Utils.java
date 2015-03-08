@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.iosched.iowear.utils;
+package it.amichiamoci.apps.schedule.iosched.iowear.utils;
 
 import android.content.Context;
 import android.content.SharedPreferences;

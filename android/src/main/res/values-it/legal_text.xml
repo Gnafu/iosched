@@ -16,5 +16,5 @@
 -->
 
 <resources>
-    <string name="eula_legal_text">Your EULA text here.</string>
+    <string name="eula_legal_text">Questo programma è gratuito e fornito senza nessuna garanzia o condizione di alcun genere. Questo prodotto è basato sul progetto open source Google I/O 2014.</string>
 </resources>

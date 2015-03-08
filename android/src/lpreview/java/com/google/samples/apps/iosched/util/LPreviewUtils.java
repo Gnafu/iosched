@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.iosched.util;
+package it.amichiamoci.apps.schedule.iosched.util;
 
 import android.app.Activity;
 import android.os.Build;

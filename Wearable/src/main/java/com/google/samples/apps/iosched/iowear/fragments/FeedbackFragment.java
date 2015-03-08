@@ -14,9 +14,9 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.iosched.iowear.fragments;
+package it.amichiamoci.apps.schedule.iosched.iowear.fragments;
 
-import com.google.samples.apps.iosched.iowear.OnQuestionAnsweredListener;
+import it.amichiamoci.apps.schedule.iosched.iowear.OnQuestionAnsweredListener;
 
 import android.app.Fragment;
 

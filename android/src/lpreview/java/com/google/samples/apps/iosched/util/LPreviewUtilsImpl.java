@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.iosched.util;
+package it.amichiamoci.apps.schedule.iosched.util;
 
 import android.annotation.TargetApi;
 import android.app.Activity;
@@ -34,7 +34,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toolbar;
 
-import com.google.samples.apps.iosched.R;
+import it.amichiamoci.apps.schedule.iosched.R;
 
 import java.lang.Override;
 import java.util.List;

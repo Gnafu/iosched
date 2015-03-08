@@ -88,7 +88,7 @@
     <string name="all_years">All Years</string>
 
     <!-- Name of the application, shown in the application's title bar. -->
-    <string name="app_name">Google I/O 2014</string>
+    <string name="app_name">Amichiamoci 2014</string>
 
     <!-- Label on a button that is one possible answer to the question "Are you attending the
     conference in person in San Francisco or remotely via livestream?" -->
@@ -819,7 +819,7 @@
     <string name="welcome_text">Before we begin, here is some important legal information regarding your use of this app. This will only take a minute!</string>
 
     <!-- Short text welcoming the user to the application -->
-    <string name="welcome_to_google_i_o_app">Welcome to the Google I/O app!</string>
+    <string name="welcome_to_google_i_o_app">Welcome to the Amichiamoci app!</string>
 
     <!-- Text for a button which will add a wi-fi network -->
     <string name="wifi_dialog_button_configure">Add WiFi Network</string>

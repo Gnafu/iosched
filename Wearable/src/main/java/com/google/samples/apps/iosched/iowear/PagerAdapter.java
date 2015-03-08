@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.samples.apps.iosched.iowear;
+package it.amichiamoci.apps.schedule.iosched.iowear;
 
 import android.app.Fragment;
 import android.app.FragmentManager;
